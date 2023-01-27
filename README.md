@@ -7,6 +7,11 @@ This open source project contains elements, source code, graphics, sounds, etc. 
 
 This project is structured into named instances of the games source code and assets. Each instance is a copy of the previous named instance, building upon it to a new level of being a more complete game. For example the first named instance is: 01_Intro. The next named instance is 02_Basic_PieceMovement, which is a copy of 01_Intro, yet has added more features, assests, etc.
 
+# Medium.com / YouTube links:
+1. Introduction Video: <a href="https://youtu.be/-rJLeR3AHpo">PyGames-PyChess Introduction</a>
+
+<img src="https://i9.ytimg.com/vi/-rJLeR3AHpo/mqdefault.jpg?sqp=CKj70J4G-oaymwEmCMACELQB8quKqQMa8AEB-AHOBYAC7gWKAgwIABABGEwgWyhlMA8=&rs=AOn4CLDVk_khAIyR3W_kbzQwPm9SoUYCfQ">
+
 # 01_Intro
 1. Instance Overview 
 
