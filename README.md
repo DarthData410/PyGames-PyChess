@@ -1,6 +1,6 @@
 # PyGames-PyChess
 By: J. Brandon George | darth.data410@gmail.com | twitter: @PyFryDay | medium.com: https://darth-data410.medium.com/ | youtube: https://www.youtube.com/@pyfryday
-license found @: PyGames-BattleChess/LICENSE (Apache License Version 2.0 Janurary 2004)
+license found @: PyGames-PyChess/LICENSE (Apache License Version 2.0 Janurary 2004)
 
 # Details:
 This open source project contains elements, source code, graphics, sounds, etc. that support my Medium.com series of post about python3 and pygame. This is meant to be used as a project for understanding how to build a classic chess game. This includes targeting different forms of AI.
